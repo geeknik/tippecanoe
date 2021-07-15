@@ -1,5 +1,5 @@
 # Start from ubuntu
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 # Update repos and install dependencies
 RUN apt-get update \
